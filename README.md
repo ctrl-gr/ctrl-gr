@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ctrl-gr
-- 👀 I’m interested in Go, Java, HTML, Javascript, SQL
+- 👀 I’m interested in Java, HTML, Javascript, SQL, PHP, Phyton
 - 🌱 I’m currently learning everything I wrote above
-- 💞️ I’m looking to collaborate on interesting projects
+- ✨ I’m looking to collaborate on interesting projects
 - 📫 Reach me by DM
 
 <!---
